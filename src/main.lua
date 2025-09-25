@@ -1,3 +1,4 @@
 function love.load()
-	print 'dbg info'
+	print('DBG:', 'load')
+
 end
