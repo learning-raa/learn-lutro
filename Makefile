@@ -4,6 +4,8 @@ help:
 
 edit:
 	@nvim src/main.lua
+run:
+	@launch.sh
 
 force.push:
 	@git push -f
